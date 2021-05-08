@@ -12,25 +12,25 @@ highlighter: rouge
 
 # 作者信息
 author: 
-  name: 高扬
-  email: gycoderhh@gmail.com
-  link: http://blademastercoder.github.io/
-  weibo: http://weibo.com/u/2344559062
-  github: https://github.com/BladeMasterCoder
-  github_username:  BladeMasterCoder
-  weibo_username:  BladeMasterCoder
+  name: 黄嘉乐
+  email: lecoder@qq.com
+  link: http://leleyy1997.github.io/
+  weibo:
+  github: https://github.com/leleyy1997
+  github_username:  leleyy1997
+  weibo_username:  leleyy1997
 
 # 站点信息
-title : DarLie's Home
+title : legege's Home
 description: 
   一不小心迈入计算机行业，在程序猿的道路上艰难地前行，目标是成
   为一名优秀的全栈工程师或者说资深码农。对很多东西都充满兴趣，
   跑步游泳，近期目标是能跑半程马拉松，学会自由泳。
-url: http://blademastercoder.github.io/
+url: http://leleyy1997.github.io/
 rss_url: /feed.xml
 
 # gavatar头像及Favicon
-gavatar : /assets/img/gavatar.png
+gavatar : /assets/img/lbxx.png
 favicon : /assets/img/favicon.png
 
 # disqus 设置
